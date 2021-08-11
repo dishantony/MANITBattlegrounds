@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">tI0EVbv4bH9kW28NO6qCEd25ZE1fxmCd4NinTGPT</string>
+    <string name="back4app_client_key">oGRlc9A0ap7GNKUGOMxWKG0bCJU7m6xHP86nCFAx</string>
+
+    <string name="app_name">MANIT Battlegrounds</string>
+</resources>
